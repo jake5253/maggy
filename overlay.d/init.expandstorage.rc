@@ -1,5 +1,0 @@
-on init
-    start usbdataservice
-
-service usbdataservice ${MAGISKTMP}/myscript.sh
-    oneshot
